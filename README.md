@@ -1,4 +1,4 @@
-# WT901C-TTL
+# WT901SD
 Developed tutorial: providing manual, datasheet, free software
 for Windows computer, APP for Android smartphones , and sample code for
 MCU integration including 51 serial, STM32, Arduino, Matlab, Raspberry Pi,
@@ -21,17 +21,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/WT901C-TTL
+https://github.com/WITMOTION/WT901SD
 
 Google Drive: 
-https://drive.google.com/open?id=105rvxXIr_lh-DH1Xq-Mt8EMOz2QulKsi
+https://drive.google.com/open?id=17XNU0ig52N4oLtfD9VgQIES_fl2VhYlA
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-WT901C-TTL Playlist: 
-https://www.youtube.com/playlist?list=PL43tdDrVL_VAWhJ11hLfMyUSWl2Pes6PE
+WT901SD Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VDIkDvT_qSTau5RS7PD09LT
 
 -----------
 After-sale Service& Technical Support: 
